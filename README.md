@@ -26,6 +26,19 @@ Tableau - interactive dashboard
 ## Clinical Context
 The CMS Excess Readmissions ratio compares a hospitals actual readmissions to what their expected readmissions were based on their patient population. A ratio over 1.0 indicates that a hospital is readmitting patients more often than predicted, triggering the potential for the hospital to receive Medicare reimbursement penalties. In my clinical experience, gaps in discharge planning, improper follow up, and lack of patient education can contribute to avoidable readmissions. 
 
+
+###  Dashboard
+View Interactive Dashboard on Tableau Public (https://public.tableau.com/views/CMSHospitalReadmissionsAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+The dashboard includes
+- National state-level heat map colored by average excess readmission ratio
+- Top 15 highest penalty risk hospitals nationally
+- Interactive tooltips with hospital and state detail
+
 ### Data Source
 [CMS Hospital Readmissions Reduction Program Dataset}(https://data.cms.gov/provider-data/dataset/9n3s-kdb3)
 - available to the public, updated annually
+
+### About
+Sophia O'Donnell, BSN, RN**
+Registered Nurse | Healthcare Analytics
+[LinkedIn](https://linkedin.com/in/sophia-urban56)
